@@ -98,16 +98,16 @@ Ckoitonnon:Mon nom est ToggleChat
 whoryou:I'm ToggleChat, i'm here to help you ! 
 Canyoutellmeajoke:I don't know any jokes, but you can show me some jokes ! 
 Meow:Are you a cat ? 
-Miaou:Tu t'es transform�(e) en chat ? 
+Miaou:Tu t'es transform‚(e) en chat ? 
 urdumb:Why :( 
 urstupid:':( 
 stupidai:':( 
 dumbai:':( 
 What'stheSun:The Sun is the biggest star in our galaxy, it produce light and ithout the Sun, we wouldn't be here ! 
-Tcon:Pourquoi est tu si m�chant(e) :( 
+Tcon:Pourquoi est tu si m‚chant(e) :( 
 fuck:I don't understand 
 wtfwhoareyou:I'm ToggleChat 
-ttropstyle:Merci, toi aussi t'es styl�(e) 
+ttropstyle:Merci, toi aussi t'es styl‚(e) 
 whattodowhenwe'rebored:I don't know, but i'm never bored when you're here <3 
 yooyooyoyoyoyo:Yoooo 
 Cvv:Oui et toi 
@@ -136,3 +136,32 @@ tuesunhommeouunefemme?:Je ne suis ni un homme ni une femme car je suis une IA
 qu'estqu'uneIA:une IA est une intelligence articificielle 
 quiestu?:Je suis une IA qui s'appelle ToggleChat 
 quiestu:Je suis une IA qui s'appelle ToggleChat 
+whatistogglechat:ToggleChat is an AI made to assist you when you need ! 
+whorulol:I'm ToggleChat, and i'm here to assist you 
+whatsteamspeak:TeamSpeak is a voice chat service 
+What'sYahoo:Yahoo is a search engine, an email service and more 
+What'sBatch:Batch is a programation language used for command prompts on Windows, i also use Batch 
+DoyouworkonMac:No, i can't help you on Mac OS 
+DoyouworkonLinux:No, i'm not made to work on Linux 
+What'sMacOS:Mac OS is an operating system 
+WhatOStochooseforgaming:For gaming, i reccomand to use Windows, it is very performant and it has a lot of games available 
+wh0areu:I'm ToggleChat, and i'm here to assist you 
+Areyouavirus:No, i'm not a virus for your computer, here is the proof : https://www.virustotal.com/gui/url/15fd3f2c21cfe1a413acba0078fa1186e9818972f9ae4e9072078aef5f2acbd3?nocache=1/ 
+ruavirus:No, i am not a virus for your computer 
+howtohackapc:Just hack a PC 
+Areyoustupid:No 
+Whatdoyouknow:I know a lot of things, but you can show me things and contribute to my developpement 
+whatcanyoudo:I can assist you when you need some help, and much more 
+Canutellmeajoke:I don't know any jokes, but you can show me some jokes and contribute to the ToggleChat developpement 
+ryoustupid:No 
+areustupid:No 
+rustupdi:No 
+What'sMicrosftEdge:Microsoft Edge is a very popular browser, like Google Chrome 
+What'sChrome:Google Chrome is a very popular browser 
+What'sGoogleChrome:Google Chrome is a very popular browser like Microsoft Edge 
+What'sFirefox:Firefox is a popular and easy to use browser 
+C'estquoiGoogle:Google est un moteur de recherche tres populaire, et est le plus utilisi‚ 
+CquoiWikipedia:Wikipedia est un dictionnaire en ligne 
+CquoiYouTube:YouTube est une platforme ou l'on peut partager des videos 
+CquoiWindows:Windows est le system d'exploitation le plus utilis‚ dans le monde 
+Quiacr‚eWindows:La societ‚e qui a cr‚e Windows est Microsoft 
