@@ -1,5 +1,5 @@
 @echo off
-title ToggleChait - Machine Learning ChatBot
+title ToggleChat - Machine Learning ChatBot
 setlocal enabledelayedexpansion
 
 REM Get the directory of the batch script
